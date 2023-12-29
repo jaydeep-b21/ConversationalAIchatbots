@@ -2,21 +2,11 @@ from django.shortcuts import render , HttpResponse
 from django.http import JsonResponse
 import os
 import json
-# import pyperclip
-# from reportlab.pdfgen import canvas
-# import requests
-# from bs4 import BeautifulSoup
 
-# import time
-# import win32com.client
-
-# import openai
 import google.generativeai as palm
 
-api_key = "AIzaSyBsPhpI1kYaD9_4eKV7Im7ZLcLcC8WVG9I"
+api_key = "PALM_2_API"
 palm.configure(api_key= api_key)
-
-# openai.api_key = "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"
 
 
 # Create your views here.

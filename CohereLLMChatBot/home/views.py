@@ -3,7 +3,7 @@ from django.http import JsonResponse
 import os
 import cohere
 
-cohere_api_key = "sNvH7BXlEGHdhomPtEalgqEGRJZiQxnMEEV2pEsX"
+cohere_api_key = "COHERE_API"
 
 co = cohere.Client(cohere_api_key)
 

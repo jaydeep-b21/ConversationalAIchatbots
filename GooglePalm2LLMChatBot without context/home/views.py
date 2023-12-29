@@ -4,7 +4,7 @@ import os
 import re
 import google.generativeai as palm
 
-api_key = "AIzaSyBsPhpI1kYaD9_4eKV7Im7ZLcLcC8WVG9I"
+api_key = "PALM_2_API"
 palm.configure(api_key= api_key)
 
 # Create your views here.
