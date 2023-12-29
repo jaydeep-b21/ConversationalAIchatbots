@@ -1,0 +1,59 @@
+{
+    "model": "models/chat-bison-001",
+    "context": "",
+    "messages": [
+        {
+            "author": "0",
+            "content": "  <span class=\"d-block\" style=\"font-weight:800\">Jaydeep:</span> write key points on pollution  <span class=\"d-block\" style=\"font-weight:800\">Daisy:</span> "
+        },
+        {
+            "author": "1",
+            "content": "Pollution is the introduction of contaminants into the natural environment that cause adverse change. Pollution can take the form of chemical substances or energy, such as noise, heat or light. Pollutants, the components of pollution, can be either foreign substances/energies or naturally occurring contaminants. Pollution is often classed as point source or nonpoint source pollution. Air pollution, water pollution, soil contamination, noise pollution and light pollution are some of the different types of pollution.  Pollution is a major cause of environmental degradation and can have a significant impact on human health. It can also lead to climate change, which is a major threat to the planet.  There are many different ways to reduce pollution. Some of the most effective methods include:   Reducing our reliance on fossil fuels  Investing in renewable energy sources  Recycling and reusing materials  Reducing our consumption of goods and services  Educating others about the dangers of pollution  Pollution is a serious problem, but it is one that we can solve if we work together. By taking action to reduce pollution, we can protect our environment and improve our quality of life.  Here are some key points on pollution:   Pollution is the introduction of contaminants into the natural environment that cause adverse change.  Pollution can take the form of chemical substances or energy, such as noise, heat or light.  Pollutants, the components of pollution, can be either foreign substances/energies or naturally occurring contaminants.  Pollution is often classed as point source or nonpoint source pollution.  Air pollution, water pollution, soil contamination, noise pollution and light pollution are some of the different types of pollution.  Pollution is a major cause of environmental degradation and can have a significant impact on human health.  It can also lead to climate change, which is a major threat to the planet.  There are many different ways to reduce pollution.  Some of the most effective methods include:      Reducing our reliance on fossil fuels      Investing in renewable energy sources      Recycling and reusing materials      Reducing our consumption of goods and services      Educating others about the dangers of pollution.  Pollution is a serious problem, but it is one that we can solve if we work together.  By taking action to reduce pollution, we can protect our environment and improve our quality of life.",
+            "citation_metadata": {
+                "citation_sources": [
+                    {
+                        "start_index": 0,
+                        "end_index": 378,
+                        "uri": "http://en.wikipedia.org/wiki/Environment_of_Karachi"
+                    },
+                    {
+                        "start_index": 1231,
+                        "end_index": 1629,
+                        "uri": "http://en.wikipedia.org/wiki/Environment_of_Karachi"
+                    },
+                    {
+                        "start_index": 1517,
+                        "end_index": 1652,
+                        "uri": "http://138.197.184.166/environmental-science/wholistically-looking-at-the-ever-increasing-problem-of-the-rate-of-pollution-in-major-nigeria-cities-uesing-benin-city-as-a-case-study/index.html"
+                    }
+                ]
+            }
+        }
+    ],
+    "temperature": 0.0,
+    "candidates": [
+        {
+            "author": "1",
+            "content": "Pollution is the introduction of contaminants into the natural environment that cause adverse change. Pollution can take the form of chemical substances or energy, such as noise, heat or light. Pollutants, the components of pollution, can be either foreign substances/energies or naturally occurring contaminants. Pollution is often classed as point source or nonpoint source pollution. Air pollution, water pollution, soil contamination, noise pollution and light pollution are some of the different types of pollution.  Pollution is a major cause of environmental degradation and can have a significant impact on human health. It can also lead to climate change, which is a major threat to the planet.  There are many different ways to reduce pollution. Some of the most effective methods include:   Reducing our reliance on fossil fuels  Investing in renewable energy sources  Recycling and reusing materials  Reducing our consumption of goods and services  Educating others about the dangers of pollution  Pollution is a serious problem, but it is one that we can solve if we work together. By taking action to reduce pollution, we can protect our environment and improve our quality of life.  Here are some key points on pollution:   Pollution is the introduction of contaminants into the natural environment that cause adverse change.  Pollution can take the form of chemical substances or energy, such as noise, heat or light.  Pollutants, the components of pollution, can be either foreign substances/energies or naturally occurring contaminants.  Pollution is often classed as point source or nonpoint source pollution.  Air pollution, water pollution, soil contamination, noise pollution and light pollution are some of the different types of pollution.  Pollution is a major cause of environmental degradation and can have a significant impact on human health.  It can also lead to climate change, which is a major threat to the planet.  There are many different ways to reduce pollution.  Some of the most effective methods include:      Reducing our reliance on fossil fuels      Investing in renewable energy sources      Recycling and reusing materials      Reducing our consumption of goods and services      Educating others about the dangers of pollution.  Pollution is a serious problem, but it is one that we can solve if we work together.  By taking action to reduce pollution, we can protect our environment and improve our quality of life.",
+            "citation_metadata": {
+                "citation_sources": [
+                    {
+                        "start_index": 0,
+                        "end_index": 378,
+                        "uri": "http://en.wikipedia.org/wiki/Environment_of_Karachi"
+                    },
+                    {
+                        "start_index": 1231,
+                        "end_index": 1629,
+                        "uri": "http://en.wikipedia.org/wiki/Environment_of_Karachi"
+                    },
+                    {
+                        "start_index": 1517,
+                        "end_index": 1652,
+                        "uri": "http://138.197.184.166/environmental-science/wholistically-looking-at-the-ever-increasing-problem-of-the-rate-of-pollution-in-major-nigeria-cities-uesing-benin-city-as-a-case-study/index.html"
+                    }
+                ]
+            }
+        }
+    ]
+}
